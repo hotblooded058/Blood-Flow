@@ -12,7 +12,7 @@ This is a web based project that helps in blood donation management system secur
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MySql](https://www.mysql.com/)
 
-## Made with ♥ by Rankit
+## Made with ♥ by Sachin
 
 
 MIT © [Sachin](https://github.com/hotblooded058)
